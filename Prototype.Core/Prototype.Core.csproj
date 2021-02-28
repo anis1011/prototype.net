@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Prototype.DatabaseMigration\Prototype.DatabaseMigration.csproj" />
+  </ItemGroup>
+
 </Project>
